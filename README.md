@@ -1,2 +1,2 @@
 # javaLearnings_
-A basic github repo where I upload my Java Learnings.
+A basic github repo where I upload my Java Learnings and GUI Learnings.
